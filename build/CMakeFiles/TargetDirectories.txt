@@ -1,0 +1,4 @@
+/home/computer_Study/IO/EpollDemo/build/CMakeFiles/rebuild_cache.dir
+/home/computer_Study/IO/EpollDemo/build/CMakeFiles/edit_cache.dir
+/home/computer_Study/IO/EpollDemo/build/CMakeFiles/Client.dir
+/home/computer_Study/IO/EpollDemo/build/CMakeFiles/Server.dir
